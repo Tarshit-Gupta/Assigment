@@ -1,10 +1,10 @@
-# 🌟 Project Name
+# 🌟 Gym Management Website
 
 ## 📌 Description
-A brief overview of the project and what it does.
+This is a **Gym Management Website** designed to help gym owners and trainers manage memberships, track attendance, and schedule training sessions efficiently.
 
 ## 🎨 Demo Preview (HTML & CSS)
-Here is a simple **HTML & CSS** snippet from the project:
+Here is a sample **HTML & CSS** snippet from the Gym Management Website:
 
 ```html
 <!DOCTYPE html>
@@ -41,38 +41,49 @@ Here is a simple **HTML & CSS** snippet from the project:
     <button class="btn">Click Me!</button>
 </body>
 </html>
-📌 Output Preview: This code creates a basic webpage with a button.
-________________________________________
-🔹 Features
-•	🖼️ Beautiful UI with simple HTML & CSS.
-•	🚀 Responsive and easy to use.
-•	🛠️ Customizable styles.
-🚀 How to Run the Project
-1.	Clone the repository: 
-bash
-CopyEdit
-git clone https://github.com/your-username/repository-name.git
-2.	Navigate to the project directory: 
-bash
-CopyEdit
-cd repository-name
-3.	Open index.html in a browser to see the output.
-________________________________________
-🤝 Contribution Guidelines
-1.	Fork the repository.
-2.	Create a new branch for your changes: 
-bash
-CopyEdit
-git checkout -b feature-branch
-3.	Make changes and commit: 
-bash
-CopyEdit
-git commit -m "Added new feature"
-4.	Push to GitHub and create a Pull Request.
-________________________________________
-📜 License
-This project is licensed under MIT License.
-👥 Team & Contributors
-•	Your Name
-•	Contributor Name
+```
 
+📌 **Output Preview**: This code creates a basic webpage with a button.
+
+---
+
+## 🔹 Features
+- 🖼️ Beautiful UI with simple HTML & CSS.
+- 🚀 Responsive and easy to use.
+- 🛠️ Customizable styles.
+
+## 🚀 How to Run the Project
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/repository-name.git
+   ```
+2. Navigate to the project directory:  
+   ```bash
+   cd repository-name
+   ```
+3. Open `index.html` in a browser to see the output.
+
+---
+
+## 🤝 Contribution Guidelines
+1. Fork the repository.
+2. Create a new branch for your changes:  
+   ```bash
+   git checkout -b feature-branch
+   ```
+3. Make changes and commit:  
+   ```bash
+   git commit -m "Added new feature"
+   ```
+4. Push to GitHub and create a Pull Request.
+
+---
+
+## 📜 License
+This project is licensed under **MIT License**.
+
+## 👥 Team & Contributors
+- Tarshit Gupta
+- Ketan Kumar
+
+---
